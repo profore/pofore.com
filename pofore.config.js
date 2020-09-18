@@ -6,6 +6,7 @@ module.exports = {
             bucket: 'pofore-com',
             endpoint: 'www.pofore.com',
             cname: true
+            
         }
     }
 }
